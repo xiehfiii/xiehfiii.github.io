@@ -8,8 +8,8 @@ redirect_from:
 ---
 Education
 ======
-* M.S. in Jekyll, Chinese Academy of Agricultural Sciences, 2024-2027
-* B.S. in GitHub, Southwest Jiaotong University, 2020-2024
+* M.S. in Chinese Academy of Agricultural Sciences, 2024-2027
+* B.S. in Southwest Jiaotong University, 2020-2024
   
 Skills
 ======
@@ -20,8 +20,4 @@ Skills
 * Integrated analysis of transcriptome and metabolome
 
 Publications
-#======
-#  <ul>{% for post in site.publications reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
 * None  
