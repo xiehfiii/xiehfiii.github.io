@@ -19,5 +19,3 @@ Skills
 * GWAS
 * Integrated analysis of transcriptome and metabolome
 
-Publications
-* None  
